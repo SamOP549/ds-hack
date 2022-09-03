@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial scale=1.0">
+<title>SRM CLUBS</title>
+<!--CUSTOM CSS-->
+<link rel="stylesheet" href="clubpage.css">
+</head>
+<body>
+<div class="container">
+ <h2>SRM CLUBS</h2>
+</div>
+<div class="gallery">
+    <div class="p1">
+        <img src="kzillas.png" width="50" height="300" >
+       <!-- <div class="content" fade >A product based club focussing 
+            on tech exuberance and open source.
+            They websites for companies and large organisations.
+            Domains
+            1)Technical
+            2)Editorial
+            3)Corporate
+            4)Events
+        </div>-->
+        <div class="desc">SRMKZILLA</div>
+    </div>   
+    <div class="p1">
+        <img src="cninjs.png" width="25" height="300">
+        
+<div class="desc">CODING NINJAS SRM</div>
+    </div> 
+    <div class="p1"> 
+        <img src="dasc.png" width="25" height="250">
+        <div class="desc">DATA SCIENCE COMMUNITY SRM</div>
+    </div>
+    <div class="p1">
+        <img src="fgdsc.png" width="25" height="250">
+            <div class="desc">GDSC SRM</div>
+    </div>
+    <div class="p1">
+        <img src="iota.png" width="25" height="250">
+            <div class="desc">IOT ALLIANCE SRM</div>
+    </div>
+    <div class="p1">
+        <img src="scros.png" width="25" height="250">
+            
+            <div class="desc">SRM SCRO</div>
+            
+    </div>
+    <div class="p1">
+        <img src="gfgs.png" width="25" height="250">
+            <div class="desc">GEEKS FOR GEEKS SRM</div>
+    </div>
+    <div class="p1" >
+        <img src="githubs.png" width="25" height="250">
+            <div class="desc">GITHUB COMMUNITY SRM</div>
+    </div>
+   
+  
+</div>
+
+</body>
+
+</html>
